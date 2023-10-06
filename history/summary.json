@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 237,
-    "timeDay": 237,
-    "timeWeek": 237,
-    "timeMonth": 237,
-    "timeYear": 237,
+    "time": 236,
+    "timeDay": 236,
+    "timeWeek": 236,
+    "timeMonth": 236,
+    "timeYear": 236,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 249,
-    "timeDay": 249,
-    "timeWeek": 249,
-    "timeMonth": 249,
-    "timeYear": 249,
+    "time": 221,
+    "timeDay": 221,
+    "timeWeek": 221,
+    "timeMonth": 221,
+    "timeYear": 221,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.nftxledger.com.ico",
     "slug": "nf-tx-ledger-www",
     "status": "down",
-    "uptime": "0.05%",
-    "uptimeDay": "0.05%",
-    "uptimeWeek": "0.05%",
-    "uptimeMonth": "0.05%",
-    "uptimeYear": "0.05%",
-    "time": 114,
-    "timeDay": 114,
-    "timeWeek": 114,
-    "timeMonth": 114,
-    "timeYear": 114,
+    "uptime": "0.07%",
+    "uptimeDay": "0.07%",
+    "uptimeWeek": "0.07%",
+    "uptimeMonth": "0.07%",
+    "uptimeYear": "0.07%",
+    "time": 100,
+    "timeDay": 100,
+    "timeWeek": 100,
+    "timeMonth": 100,
+    "timeYear": 100,
     "dailyMinutesDown": {
-      "2023-10-06": 38
+      "2023-10-06": 43
     }
   },
   {
@@ -61,18 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.nftxtrade.com.ico",
     "slug": "nf-tx-trade-www",
     "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
-    "time": 144,
-    "timeDay": 144,
-    "timeWeek": 144,
-    "timeMonth": 144,
-    "timeYear": 144,
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
+    "time": 124,
+    "timeDay": 124,
+    "timeWeek": 124,
+    "timeMonth": 124,
+    "timeYear": 124,
     "dailyMinutesDown": {
-      "2023-10-06": 38
+      "2023-10-06": 43
     }
   }
 ]
