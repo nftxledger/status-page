@@ -4,36 +4,40 @@
     "url": "https://nftxledger.com",
     "icon": "https://icons.duckduckgo.com/ip3/nftxledger.com.ico",
     "slug": "nf-tx-ledger",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 190,
-    "timeDay": 172,
-    "timeWeek": 215,
-    "timeMonth": 190,
-    "timeYear": 190,
-    "dailyMinutesDown": {}
+    "time": 192,
+    "timeDay": 213,
+    "timeWeek": 220,
+    "timeMonth": 192,
+    "timeYear": 192,
+    "dailyMinutesDown": {
+      "2023-10-30": 0
+    }
   },
   {
     "name": "NFTx Trade",
     "url": "https://nftxtrade.com",
     "icon": "https://icons.duckduckgo.com/ip3/nftxtrade.com.ico",
     "slug": "nf-tx-trade",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 188,
-    "timeDay": 187,
-    "timeWeek": 207,
-    "timeMonth": 188,
-    "timeYear": 188,
-    "dailyMinutesDown": {}
+    "time": 190,
+    "timeDay": 225,
+    "timeWeek": 214,
+    "timeMonth": 190,
+    "timeYear": 190,
+    "dailyMinutesDown": {
+      "2023-10-30": 0
+    }
   },
   {
     "name": "NFTx Ledger (WWW)",
@@ -52,7 +56,7 @@
     "timeMonth": 119,
     "timeYear": 119,
     "dailyMinutesDown": {
-      "2023-10-30": 41,
+      "2023-10-30": 1200,
       "2023-10-29": 1440,
       "2023-10-28": 1440,
       "2023-10-27": 1440,
@@ -96,7 +100,7 @@
     "timeMonth": 120,
     "timeYear": 120,
     "dailyMinutesDown": {
-      "2023-10-30": 41,
+      "2023-10-30": 1200,
       "2023-10-29": 1440,
       "2023-10-28": 1440,
       "2023-10-27": 1440,
